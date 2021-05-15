@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://__gcd.github.io</id>
+    <title>__gcd</title>
+    <updated>2021-05-15T07:11:21.649Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://__gcd.github.io"/>
+    <link rel="self" href="https://__gcd.github.io/atom.xml"/>
+    <logo>https://__gcd.github.io/images/avatar.png</logo>
+    <icon>https://__gcd.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, __gcd</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://__gcd.github.io/post/test/</id>
+        <link href="https://__gcd.github.io/post/test/">
+        </link>
+        <updated>2021-05-15T04:17:17.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
+</feed>
